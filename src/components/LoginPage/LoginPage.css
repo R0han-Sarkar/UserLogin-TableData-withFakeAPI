@@ -1,0 +1,35 @@
+.LoginFormPage {
+  margin-top: 10%;
+  margin-left: 40%;
+  width: 400px;
+  height: 480px;
+  border: 1px solid #efefef;
+  background-color: #b69090;
+  border-radius: 20px;
+}
+
+.form-outline {
+  margin: 0px 15%;
+}
+.forgotPassDiv {
+  margin: 0px 11.4%;
+  margin-top: 32px;
+}
+.btn {
+  margin-left: 0%;
+}
+.Buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0px 50px;
+  margin-top: 40px;
+}
+.Buttons button {
+  padding: 10px 30px;
+}
+.col a {
+  /* text-decoration: none; */
+  color: rgb(48, 48, 48);
+  font-size: 15.5px;
+}
